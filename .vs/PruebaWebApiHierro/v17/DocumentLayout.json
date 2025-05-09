@@ -1,12 +1,149 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Proyecto .NET\\PruebaWebApiHierro\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|d:\\proyecto .net\\pruebawebapihierro\\pruebawebapihierro\\services\\verifiedphones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|solutionrelative:pruebawebapihierro\\services\\verifiedphones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|d:\\proyecto .net\\pruebawebapihierro\\pruebawebapihierro\\services\\twilioverifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|solutionrelative:pruebawebapihierro\\services\\twilioverifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|d:\\proyecto .net\\pruebawebapihierro\\pruebawebapihierro\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|solutionrelative:pruebawebapihierro\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|d:\\proyecto .net\\pruebawebapihierro\\pruebawebapihierro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|solutionrelative:pruebawebapihierro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|d:\\proyecto .net\\pruebawebapihierro\\pruebawebapihierro\\pruebawebapihierro.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|solutionrelative:pruebawebapihierro\\pruebawebapihierro.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|d:\\proyecto .net\\pruebawebapihierro\\pruebawebapihierro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|solutionrelative:pruebawebapihierro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|d:\\proyecto .net\\pruebawebapihierro\\pruebawebapihierro\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|solutionrelative:pruebawebapihierro\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|d:\\proyecto .net\\pruebawebapihierro\\pruebawebapihierro\\controllers\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907345C4-4BF0-4988-AB99-F7934D467688}|PruebaWebApiHierro\\PruebaWebApiHierro.csproj|solutionrelative:pruebawebapihierro\\controllers\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerifiedPhones.cs",
+              "DocumentMoniker": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\Services\\VerifiedPhones.cs",
+              "RelativeDocumentMoniker": "PruebaWebApiHierro\\Services\\VerifiedPhones.cs",
+              "ToolTip": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\Services\\VerifiedPhones.cs",
+              "RelativeToolTip": "PruebaWebApiHierro\\Services\\VerifiedPhones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:26:06.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TwilioVerifyService.cs",
+              "DocumentMoniker": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\Services\\TwilioVerifyService.cs",
+              "RelativeDocumentMoniker": "PruebaWebApiHierro\\Services\\TwilioVerifyService.cs",
+              "ToolTip": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\Services\\TwilioVerifyService.cs",
+              "RelativeToolTip": "PruebaWebApiHierro\\Services\\TwilioVerifyService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:26:01.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PruebaWebApiHierro\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PruebaWebApiHierro\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T06:08:59.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PruebaWebApiHierro.http",
+              "DocumentMoniker": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\PruebaWebApiHierro.http",
+              "RelativeDocumentMoniker": "PruebaWebApiHierro\\PruebaWebApiHierro.http",
+              "ToolTip": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\PruebaWebApiHierro.http",
+              "RelativeToolTip": "PruebaWebApiHierro\\PruebaWebApiHierro.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-08T06:08:39.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaWebApiHierro\\appsettings.json",
+              "ToolTip": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\appsettings.json",
+              "RelativeToolTip": "PruebaWebApiHierro\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T06:08:25.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "PruebaWebApiHierro\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "PruebaWebApiHierro\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAowNAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:28:43.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PruebaWebApiHierro\\Models\\User.cs",
+              "ToolTip": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\Models\\User.cs",
+              "RelativeToolTip": "PruebaWebApiHierro\\Models\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:28:25.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AsignacionesController.cs",
+              "DocumentMoniker": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\Controllers\\AsignacionesController.cs",
+              "RelativeDocumentMoniker": "PruebaWebApiHierro\\Controllers\\AsignacionesController.cs",
+              "ToolTip": "D:\\Proyecto .NET\\PruebaWebApiHierro\\PruebaWebApiHierro\\Controllers\\AsignacionesController.cs",
+              "RelativeToolTip": "PruebaWebApiHierro\\Controllers\\AsignacionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:28:19.328Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
